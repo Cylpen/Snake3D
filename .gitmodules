@@ -1,0 +1,9 @@
+[submodule "Snake3D/external/GLM"]
+	path = Snake3D/external/GLM
+	url = https://github.com/g-truc/glm.git
+[submodule "Snake3D/external/GLAD"]
+	path = Snake3D/external/GLAD
+	url = https://github.com/Dav1dde/glad.git
+[submodule "Snake3D/external/GLFW"]
+	path = Snake3D/external/GLFW
+	url = https://github.com/glfw/glfw.git
